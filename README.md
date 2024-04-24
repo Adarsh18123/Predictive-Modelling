@@ -7,6 +7,8 @@
 5) STL decomposition (Hybrid)
 6) Wavelet Decomposition (Hybrid)
 7) Stochastic Volatility Modelling
+8) Bayesian Modelling
+9) Gausiann Hidden markov Models
 
 ## Econometric models for assessing impacts
 
