@@ -13,4 +13,4 @@
 ## Econometric models for assessing impacts
 
 1) Difference In Difference (DID)
-2) ITSM (Intervential Tiome Series Modelling)
+2) ITSM (Intervential Time Series Modelling)
